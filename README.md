@@ -1,7 +1,5 @@
 # Epic Username Checker
 
-![Banner](https://imgur.com/hDsNVCL)
-
 A powerful tool to check available Epic Games usernames (4-7 characters). The script checks username availability in real-time and saves available names to a file.
 
 ## Features
